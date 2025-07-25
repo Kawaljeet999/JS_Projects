@@ -1,4 +1,4 @@
-# JavaScript Mini Projects 🚀
+# JavaScript Projects 🚀
 
 A collection of beginner-friendly JavaScript projects designed to help you strengthen your core JavaScript, HTML, and CSS skills through practical implementation.
 
